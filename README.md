@@ -16,4 +16,7 @@ I maintain more thorough and perhaps formal documentation of my work on my [webs
 * Email: `ashutosh.mukherjeecpg@gmail.com` or `ashutosh.mukherjee@rwth-aachen.de`
 * Phone: `+49 15901950326`
 * [LinkedIn](https://www.linkedin.com/in/ashutosh-mukherjee-376878165/)
+
+## For enjoyers of the German language
+Link to the [German](README_Deutsch.md) version of this description.
   
