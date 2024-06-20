@@ -2,7 +2,7 @@ Willkommen auf dem GitHub-Profil von Ashutosh Mukherjee aka `average-engineer`. 
 
 Die Erfassung auf meiner persönlichen [Webseite](https://average-engineer.github.io/Projects-Website-Ashutosh-Mukherjee/) ist etwas gründlicher und formeller.
 
-## Kurz Zusammenfassung
+## Kurze Zusammenfassung
 
 * MSc. Absolvent der RWTH Aachen, Deutschland.
 * Ich interessiere mich für den Bereichen Dynamik und Regelungstechnik, insbesondere für die Einführung der Autonomie in dynamische Systeme.
