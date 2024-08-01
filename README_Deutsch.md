@@ -5,7 +5,7 @@ Die Erfassung auf meiner persönlichen [Webseite](https://average-engineer.githu
 ## Kurze Zusammenfassung
 
 * MSc. Absolvent der RWTH Aachen, Deutschland.
-* Ich interessiere mich für den Bereichen Dynamik und Regelungstechnik, insbesondere für die Einführung der Autonomie in dynamische Systeme.
+* Ich interessiere mich für den Bereichen Dynamik und Regelungstechnik, insbesondere für die Einführung der Autonomie in dynamischen Systeme.
 * Ich habe berufliche Erfahrung (Industrie & akademische) mit Drohnen und Exoskeletten.
 * Natürliche Sprachen: Englisch, Hindi & Bengali (Fließend) und Deutsch (Gute Kentnisse).
 * Programmierung Sprachen: MATLAB (& Simulink), Python (Fließend) und C, Java, C++ (Gute Kentnisse).
