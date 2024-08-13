@@ -1,4 +1,4 @@
-Willkommen auf dem GitHub-Profil von Ashutosh Mukherjee aka `average-engineer`. Durch dies Profil versuche ich alle meine Arbeiten, zu erfassen, an denen ich beteiligt war (und sein werde). Da es GitHub ist, kann ich natürlich nur die Arbeiten erfassen, die irgendwas mit *Coding* enthalten. Außerdem sind meisten von den aktive Repositorys vielleicht nicht präsentabel.   
+Willkommen auf dem GitHub-Profil von Ashutosh Mukherjee aka `average-engineer`. Durch dies Profil versuche ich alle meine Arbeiten, an denen ich beteiligt war (und sein werde), zu erfassen. Da es GitHub ist, kann ich natürlich nur die Arbeiten erfassen, die irgendwas mit *Coding* behandelt. Außerdem sind meisten von den aktive Repositorys vielleicht nicht präsentabel.   
 
 Die Erfassung auf meiner persönlichen [Webseite](https://average-engineer.github.io/Projects-Website-Ashutosh-Mukherjee/) ist etwas gründlicher und formeller.
 
