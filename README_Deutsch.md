@@ -3,7 +3,7 @@ Willkommen auf dem GitHub-Profil von Ashutosh Mukherjee aka `average-engineer`. 
 Die Erfassung auf meiner persönlichen [Webseite](https://average-engineer.github.io/Projects-Website-Ashutosh-Mukherjee/) ist etwas gründlicher und formeller.
 
 ## Kurze Zusammenfassung
-
+* Wissenschaftlicher Mitarbeiter bei Institut für Technische Mechanik (ITM), Karlsruher Institut für Technologie
 * MSc. Absolvent der RWTH Aachen, Deutschland.
 * Ich interessiere mich für den Bereichen Dynamik und Regelungstechnik, insbesondere für die Einführung der Autonomie in dynamischen Systeme.
 * Ich habe berufliche Erfahrung (Industrie & akademische) mit Drohnen und Exoskeletten.
