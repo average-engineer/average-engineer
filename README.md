@@ -4,6 +4,7 @@ Welcome to the GitHub profile of Ashutosh Mukherjee aka `average-engineer`. This
 I maintain more thorough and perhaps formal documentation of my work on my [website](https://average-engineer.github.io/Projects-Website-Ashutosh-Mukherjee/).
 
 ## A quick rundown 
+* Doctoral Researcher at the Institute of Engineering Mechanics (ITM), Karlsruhe Institute of Technology (KIT)
 * An MSc. graduate from RWTH Aachen University, Germany.
 * Interested in the vast field of System Dynamics and how autonomy is introduced in dynamical systems.
 * Have work/research experience related to Drones and Exoskeletons.
