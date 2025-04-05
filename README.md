@@ -14,7 +14,7 @@ I maintain more thorough and perhaps formal documentation of my work on my [webs
 * My [CV](https://github.com/average-engineer/Academic-Resume/blob/main/Academic%20Resume.pdf)
 
 ## Contact-Info
-* Email: `ashutosh.mukherjeecpg@gmail.com` or `ashutosh.mukherjee@rwth-aachen.de`
+* Email: `ashutosh.mukherjeecpg@gmail.com` or `ashutosh.mukherjee@kit.edu`
 * Phone: `+49 15901950326`
 * [LinkedIn](https://www.linkedin.com/in/ashutosh-mukherjee-376878165/)
 
