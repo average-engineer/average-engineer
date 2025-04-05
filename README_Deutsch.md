@@ -13,6 +13,6 @@ Die Erfassung auf meiner persönlichen [Webseite](https://average-engineer.githu
 * Mein [Lebenslauf](https://github.com/average-engineer/Academic-Resume/blob/main/Academic%20Resume.pdf).
 
 Kontakt:
-* Email: `ashutosh.mukherjeecpg@gmail.com` oder `ashutosh.mukherjee@rwth-aachen.de`
+* Email: `ashutosh.mukherjeecpg@gmail.com` oder `ashutosh.mukherjee@kit.edu`
 * Telefon: `+49 15901950326`
 * [LinkedIn](https://www.linkedin.com/in/ashutosh-mukherjee-376878165/)
