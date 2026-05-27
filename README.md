@@ -3,7 +3,7 @@ Welcome to the GitHub profile of Ashutosh Mukherjee aka `average-engineer`. This
 
 I maintain more thorough and perhaps formal documentation of my work on my [website](https://average-engineer.github.io/Projects-Website-Ashutosh-Mukherjee/). 
 
-For a detailed overview of my PhD work, refer to [the instituteÄs website](https://www.itm.kit.edu/dynamik/Mitarbeiter_Mukherjee.php). 
+For a detailed overview of my PhD work, refer to [the institutes website](https://www.itm.kit.edu/dynamik/Mitarbeiter_Mukherjee.php). 
 
 ## A quick rundown 
 * Doctoral Researcher at the Institute of Engineering Mechanics (ITM), Karlsruhe Institute of Technology (KIT)
